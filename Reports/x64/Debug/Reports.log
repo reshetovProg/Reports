@@ -1,2 +1,7 @@
-﻿  Reports.cpp
+﻿  MonthlyList.cpp
+C:\Users\Admin\Documents\Resh\C++ ООП\patterns\Reports\MonthlyList.h(16,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Reports.cpp
+C:\Users\Admin\Documents\Resh\C++ ООП\patterns\Reports\MonthlyList.h(16,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  yearlyReport.cpp
+  Создание кода...
   Reports.vcxproj -> C:\Users\Admin\Documents\Resh\C++ ООП\patterns\Reports\x64\Debug\Reports.exe

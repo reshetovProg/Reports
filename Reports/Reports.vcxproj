@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MonthlyList.cpp" />
     <ClCompile Include="monthlyReport.cpp" />
     <ClCompile Include="MonthRecord.cpp" />
     <ClCompile Include="Reports.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="YearRecord.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="MonthlyList.h" />
     <ClInclude Include="monthlyReport.h" />
     <ClInclude Include="MonthRecord.h" />
     <ClInclude Include="yearlyReport.h" />
